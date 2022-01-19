@@ -1,0 +1,27 @@
+SMAP
+registre_jsp.java
+JSP
+*S JSP
+*F
++ 0 registre.jsp
+registre.jsp
++ 1 registrejs.jsp
+include/registrejs.jsp
++ 2 css.jsp
+include/css.jsp
++ 3 registre.jsp
+include/registre.jsp
+*L
+5,14:51
+1#1,2:65
+3:67,3
+18#0,2:70
+1#2:72
+2:73,3
+3:76
+19#0,5:76
+1#3,53:81
+54:134,3
+55,28:137
+23#0,4:164
+*E
